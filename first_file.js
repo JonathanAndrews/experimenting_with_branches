@@ -1,7 +1,7 @@
 console.log("First bit of code here")
 
-console.log('to be changed in branch and master')
+console.log('I changed this in the branch not the master')
 
-console.log("to be changed in branch")
+console.log("I changed this in the branch")
 
 console.log("to be changed in master")
